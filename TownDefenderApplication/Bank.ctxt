@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bank
+comment1.params=newMoney
+comment1.target=boolean\ setMoney(int)
+comment2.params=soll
+comment2.target=boolean\ minus(int)
+comment3.params=haben
+comment3.target=boolean\ plus(int)
+comment4.params=
+comment4.target=int\ getMoney()
+numComments=5
