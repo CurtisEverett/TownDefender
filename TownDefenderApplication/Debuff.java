@@ -8,6 +8,8 @@ public class Debuff
 
     public Debuff()
     {
+        
+        
     }
     
     public Debuff getBuff(){return this;}
