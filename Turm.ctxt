@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Turm
+comment1.params=
+comment1.target=int\ berechneSellPrize()
+comment2.params=
+comment2.target=double\ berechneSchaden()
+comment3.params=
+comment3.target=double\ sell()
+comment4.params=
+comment4.target=int\ getKills()
+comment5.params=bildquelle
+comment5.target=boolean\ setPicture(java.lang.String)
+comment6.params=
+comment6.target=boolean\ upgraden()
+numComments=7

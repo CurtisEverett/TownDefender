@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Intruder
+comment1.params=hp\ mvmspeed\ picturePath\ bounty
+comment1.target=Intruder(int,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ die()
+comment3.params=damage
+comment3.target=boolean\ hit(int)
+comment4.params=movementSpeed
+comment4.target=void\ move(int)
+comment5.params=
+comment5.target=int\ getHP()
+comment6.params=
+comment6.target=int\ getSpeed()
+comment7.params=
+comment7.target=java.lang.String\ getPic()
+comment8.params=picturePath
+comment8.target=boolean\ setPic(java.lang.String)
+comment9.params=newSpeed
+comment9.target=boolean\ setSpeed(int)
+numComments=10
